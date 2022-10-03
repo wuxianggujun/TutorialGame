@@ -11,7 +11,7 @@ import com.badlogic.gdx.utils.ScreenUtils;
 import java.util.Random;
 
 /**
- * ÊµÏÖÁËÒ»¸ö¼òµ¥µÄµ¯µ¯ÇòÊµÀı
+ * å®ç°äº†ä¸€ä¸ªç®€å•çš„å¼¹å¼¹çƒå®ä¾‹
  * image/Snipaste_2022-10-01_00-05-40.png
  */
 public class GameScreen extends ScreenAdapter {
